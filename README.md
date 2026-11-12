@@ -1,1 +1,1 @@
-﻿# Deep-learning-Lab02
+﻿# Deep-learning-Lab-exercises
